@@ -1,0 +1,230 @@
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu*
+antiSecu
+Secu1
+Secu22
+Secu333
+1Secu
+22Secu
+333Secu
+1Secu1
+1Secu22
+1Secu333
+22Secu1
+22Secu22
+semiSecu
+Secu
+Security\True
+Security)
+Security\True
+Security)
+Security
+Security
+Security)
+Secu
+gagaSecurist
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu
+antiSecu
+1Secu
+22Secu
+333Secu
+semiSecu
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu*
+Secu1
+Secu22
+Secu333
+Secu
+Security\True
+Security)
+Security\True
+Security)
+Security
+Security
+Security)
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu***
+Secu1
+Secu22
+Secu333
+Secu
+Security\True
+Security)
+Security\True
+Security)
+Security
+Security
+Security)
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ***Secu
+antiSecu
+1Secu
+22Secu
+333Secu
+semiSecu
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ***Secu**
+antiSecu
+Secu1
+Secu22
+Secu333
+1Secu
+22Secu
+333Secu
+1Secu1
+1Secu22
+1Secu333
+22Secu1
+22Secu22
+semiSecu
+Secu
+Security\True
+Security)
+Security\True
+Security)
+Security
+Security
+Security)
+Secu
+gagaSecurist
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ?Secu
+1Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ??Secu
+22Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ???Secu
+333Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ????Secu
+antiSecu
+semiSecu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *True*
+Files\TrueKey\McAfee.TrueKey.Service.exe
+Files\TrueKey\McTkSchedulerService.exe
+Files\TrueKey\McAfeeTrueKeyPasswordFilter
+True
+Security\True
+True
+Security\True
+TrueKey;
+Files\TrueKey\McAfee.TrueKey.Service.exe
+TrueKeyScheduler;
+Files\TrueKey\McTkSchedulerService.exe
+TrueKeyServiceHelper;
+Files\TrueKey\McAfee.TrueKey.ServiceHelper.exe
+Files\TrueKey\Mcafee.TrueKey.InstallerService.exe
+Files\TrueKey
+Menu\Programs\True
+True
+(HKLM\...\TrueKey)
+TrueKey
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ?Secu?
+1Secu1
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ?Secu??
+1Secu22
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ?Secu???
+1Secu333
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ????Secu????
+gagaSecurist
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ??Secu?
+22Secu1
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ??Secu??
+22Secu22
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu??
+Secu22
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu???
+Secu333
+
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu????
+Security
+Security
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu?????
+Security)
+Security)
+Security)
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log S?cu
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Se?u
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log S??u
+Secu
+Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Anatol?a
+Anatolia
+Anatolya
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Anatol??
+Anatolia
+Anatolya
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu?
+Secu1
+1Secu1
+22Secu1
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu??
+Secu22
+1Secu22
+22Secu22
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu???
+Secu333
+1Secu333
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu????
+Security
+Security
+gagaSecurist
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log *Secu?????
+Security)
+Security)
+Security)
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ?Secu*
+1Secu
+1Secu1
+1Secu22
+1Secu333
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ??Secu*
+22Secu
+22Secu1
+22Secu22
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ???Secu*
+333Secu
+
+D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log ????Secu*
+antiSecu
+semiSecu
+gagaSecurist
