@@ -1,3 +1,5 @@
+Copy pastes from the CLI with my test.log file:
+
 D:\programe c\programe_OOP\regular_expression\Debug>regular_expression test.log Secu
 Secu
 Secu
